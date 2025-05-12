@@ -1,0 +1,5 @@
+Database Name : - hotel.sql
+user name : - khizer
+password  : - 1234
+
+ENJOY DDDD
